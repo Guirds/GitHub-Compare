@@ -2,6 +2,9 @@
 <ul>
   <li><a href="https://nodejs.org/en/">Node.js</a> (versão LTS)</li>
   <li>Npm (séra instalado junto com o Node.js)</li>
+  <li>
+    React: para baixar o react é necessário acessar o seu terminal logo após o node estar instalado e executar: npm install -g create-react-app
+  </li>
 </ul>
 
 ## Executando o projeto

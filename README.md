@@ -1,5 +1,5 @@
 ## Descrição
-Essa aplicação tem por objetivo utilizar à API do github, para fazer uma comparação entre os Frameworks/Bibliotecas que estão disponiveis na plataforma. No desenvolver do projeo foram expostos diversos conceitos referente as melhores práticas de programação ao utilizar a lib do ReactJS, e algumas libs em volta desse ecossistema, como o styled components, que aproveita os conceitos do CSS para estilizar os componentes da aplicação de uma maneira diferente do convencional, mas não deixa de matém a boa e velha organizão no código.
+Essa aplicação tem por objetivo utilizar à API do github, para fazer uma comparação entre os Frameworks/Bibliotecas que estão disponiveis na plataforma. No desenvolver do projeo foram expostos diversos conceitos referente as melhores práticas de programação ao utilizar a lib do ReactJS, e algumas libs em volta desse ecossistema, como o styled components, que aproveita os conceitos do CSS para estilizar os componentes da aplicação de uma maneira diferente do convencional, mas não deixa de mater a boa e velha organizão no código.
 
 ## Necessário ter em sua máquina
 <ul>

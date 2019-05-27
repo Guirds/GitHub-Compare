@@ -14,8 +14,7 @@ Essa aplicação tem por objetivo utilizar à API do github, para fazer uma comp
 <ul>
  <li>Clonar o repositório</li>
  <li>Em seu terminal você deve acessar a pasta do repositório clonado</li>
- <li>Digitar os comandos: npm install e npm start</li>
- <li>Em seguida irá abrir uma aba no seu navegador com o projeto sendo executado</li>
+ <li>Digitar os comandos: npm install e npm start (após executar o comando npm start, basta esperar alguns minutos e irá abrir uma aba em seu navegador com o projeto sendo executado)</li>
 </ul>
 
 ## Home page
